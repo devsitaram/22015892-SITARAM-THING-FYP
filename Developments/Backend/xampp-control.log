@@ -1,0 +1,17 @@
+10:24:02 AM  [main] 	Initializing Control Panel
+10:24:02 AM  [main] 	Windows Version:  Home  64-bit
+10:24:02 AM  [main] 	XAMPP Version: 8.2.12
+10:24:02 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:24:02 AM  [main] 	You are not running with administrator rights! This will work for
+10:24:02 AM  [main] 	most application stuff but whenever you do something with services
+10:24:02 AM  [main] 	there will be a security dialogue or things will break! So think 
+10:24:02 AM  [main] 	about running this application with administrator rights!
+10:24:02 AM  [main] 	XAMPP Installation Directory: "c:\documents\finalyears\22015892_sitaram_thing_fyp\developments\backend\"
+10:24:02 AM  [main] 	Checking for prerequisites
+10:24:03 AM  [main] 	All prerequisites found
+10:24:03 AM  [main] 	Initializing Modules
+10:24:03 AM  [main] 	Starting Check-Timer
+10:24:03 AM  [main] 	Control Panel Ready
+5:13:04 PM  [main] 	Deinitializing Modules
+5:13:04 PM  [main] 	Deinitializing Control Panel
+
